@@ -1,3 +1,7 @@
+#### Practice Doc
+
+> https://docs.google.com/document/d/1Y49DtFqLyDQaE4EPF1R-9Moo6HKiD7-YDfcezWCyKRI/edit?usp=sharing
+
 # **LogicMojo**
 
 ---
@@ -17,3 +21,4 @@
 - **Design Patterns [ SOLID ]**
 - **Multithreading & Distributed Systems**
 - **Behavioral Interview**
+
