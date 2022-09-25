@@ -1,8 +1,10 @@
 # ✔ ***Always Be Interview Ready...*** ✔
 
-#### ✔ Practice 2 Hrs daily
+#### ✔ **Practice** 2 Hrs daily
 
-#### ✔ Learn to deduce Patterns from a problem & Solution
+#### ✔ Learn to **deduce Patterns** from a problem & Solution
+
+#### ✔ **Revisit** weekly learnings at the weekend (Sunday)
 
 #### ✔ Problem; 15-20 mins -> *Take Hint*, 30-45 mins -> *Upsolve*
 
