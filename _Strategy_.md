@@ -49,7 +49,7 @@ https://logicmojo.com/dashboard
 
 #### 100 Problems
 
->  3 Days / problem ⏩ 1 Month (Approx) // Worst case
+> 
 
 ---
 
