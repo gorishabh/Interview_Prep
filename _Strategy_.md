@@ -1,14 +1,22 @@
 # ✔ ***Always Be Interview Ready...*** ✔
 
-#### ✔ **Practice** 2 Hrs daily
+> ## 👁 **When Nearing Interview**
+>
+> #### *👁 Start Timing yourself 35-40 mins*
+>
+> #### *👁 Check Hints (if needed) in 10 Mins interval*
+>
+> #### *👁 Come up with the test cases and then check the actuals*
+>
+> #### 👁 *Break code in Logical fun(); code quality and makes debugging easier*
+>
+> #### *👁 Revisit and mark/check and DO NOT skip Easy solutions*
 
-#### ✔ Learn to **deduce Patterns** from a problem & Solution
+#### ✔ **Practice** daily
 
-#### ✔ **Revisit** weekly learnings at the weekend (Sunday)
+#### ✔ Stay/Struggle with the problem
 
-#### ✔ Problem; 15-20 mins -> *Take Hint*, 30-45 mins -> *Upsolve*
-
-​		(Mark this in a revision sheet)
+#### ✔ **Go through Videos**
 
 ---
 
@@ -16,15 +24,14 @@
 >
 > ## Topic Prep Sequence
 >
-> |     Easy     |          Medium          | Hard  |
-> | :----------: | :----------------------: | :---: |
-> |    Arrays    |       Stack/Queue        |  DP   |
-> | Binary Tree  | Backtracking (Recursion) | Graph |
-> | Linked Lists |    Hashing/Heap Sort     | Trie  |
+> |                           |                              |            |
+> | :-----------------------: | :--------------------------: | :--------: |
+> |        **Arrays**         |       **Stack/Queue**        | ***\*DP*** |
+> | ***\*Binary Tree / BST*** | **Backtracking (Recursion)** |  *Graph*   |
+> |     **Linked Lists**      |      **Hashing**/*Heap*      |    Trie    |
 >
-> - **Strings**
-> - **Recursion**
-> - **Behavioral Interview**
+> - Strings
+> - Behavioral Interview
 > - System Design
 > - OOPS Design
 > - Design Patterns [ SOLID ]
@@ -40,18 +47,12 @@ https://logicmojo.com/dashboard
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | *Jumping directly to code and providing explanations through that...* | *Drawing explanation first aka Problem solving approach and then move to code* | *Look for alternative solutions on either Youtube or other platforms* |
 
->
-
 ---
 
 # **After Academy**
 
 - https://afteracademy.com/tech-interview/ds-algo-concepts
 - https://afteracademy.com/tech-interview/ds-algo-problem-set/top-problems
-
-#### 100 Problems
-
-> 
 
 ---
 
