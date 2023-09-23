@@ -7,3 +7,19 @@
   - Can you use collections/methods to create map # Arrays.asList(List<Integer>)
   - HashSet<Integer> set = new HashSet<>(Arrays.asList(List<Integer>))
   - .size() for length of LISTS/SET
+
+### We can fail fast in the hashset approach by checking if the element is already in the set while creating the set itself
+
+```java
+class Solution {
+  public boolean containsDuplicate(int[] nums) {
+    HashSet<Integer> seen = new HashSet<>();
+    for (int num : nums) {
+      if (seen.contains(num))
+        return true;
+      seen.add(num);
+    }
+    return false;
+  }
+}
+```
