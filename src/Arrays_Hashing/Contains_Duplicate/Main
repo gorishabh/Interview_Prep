@@ -1,0 +1,71 @@
+// integer array nums
+
+true if value appears twice false otherwise (distinct)
+
+
+// can array have -ve values?
+Yes
+
+// can array be empty?
+Maybe
+
+// Array sorted?
+No
+
+[1, 2, 3, 4, 5] will  ^ true
+[1, 31, 2, 31, 1, 23] will ^ false
+[1] will ^ true
+[] will ^ true
+
+
+1. Brute force approach
+O(1) S
+O(N*N) T
+
+2. Sort the array and check for neighbour
+O(N) S
+O(NLogN) + O(N) = O(NLogN) T
+
+class CheckDistinct {
+
+    public static void main(String[] args) {
+        int[] array = {1, 2, 3, 4};
+        hasDistinctElements(array)
+    }
+
+    public static boolean hasDistinctElements(int[] array) {
+         if(array.length < 2) return true;
+         Arrays.sort(array); // [1 2 3 4]
+         int i = 0;
+         int j = 1;
+         while(j < array.length) { // 4 < 4
+         if(array[i] == array[j]) return false;
+         ++i; // 3
+         ++j; // 4
+         }
+         return true;
+    }
+
+}
+
+3. Create a Hashset from this array and traverse the array and check if value is present in the set
+// if present return true else false
+
+class CheckDistinct {
+
+    public static void main(String[] args) {
+        int[] array = {1, 2, 3, 1};
+        hasDistinctElements(array)
+    }
+
+    public static boolean hasDistinctElements(int[] array) {
+         if (array.length == 0) return false;
+         if (array.length == 1) return true;
+         Hashset<Integer> set = new Hashset(array); // (1 2 3)
+         return set.size() == array.length; // 3 == 4
+    }
+
+}
+
+O(N) S
+O(N) T
